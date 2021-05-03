@@ -1,0 +1,1 @@
+This is a simple coin game where coins appear on the screen and you have to collect them by hovering your mouse on them before they disappear and they also make coin sound when you collect them.
